@@ -9,30 +9,30 @@
 ## 👨🏻‍💻 Sobre mim
 
 Sou um profissional em constante aprendizado, apaixonado por tecnologia e desenvolvimento de sistemas.  
-Tenho formação técnica em **Desenvolvimento de Sistemas** pela **ETE Ministro Fernando Lyra** e atualmente estou no **1º período de ADS** pela **FAMEESP**.
+Tenho formação técnica em **Desenvolvimento de Sistemas** pela **ETE Ministro Fernando Lyra** e atualmente estou no **2º período de ADS** pela **FAMEESP**.
 
-Hoje atuo com tecnologia no dia a dia, trabalhando com **suporte técnico ao sistema Secullum**, voltado para **ponto e acesso**, e também contribuindo com a parte de **desenvolvimento** na **Conecta Ponto e Acesso**.
+Hoje atuo com tecnologia no dia a dia, trabalhando com **suporte técnico ao sistema Secullum pela empresa Conecta Ponto e Acesso**, voltado para **ponto e acesso**, e também contribuindo com a parte de **desenvolvimento** na **Conecta Ponto e Acesso**.
 
-Além disso, estou evoluindo meus conhecimentos em programação e participando de projetos práticos, incluindo um **projeto para igreja** e projetos com uso de **Inteligência Artificial**.
+Além disso, sigo evoluindo meus conhecimentos em programação e participando de projetos práticos, incluindo um **projeto para igreja** e projetos com uso de **Inteligência Artificial**.
 
 ---
 
 ## 🚀 Momento atual
 
 - 💼 Trabalhando com **suporte técnico** ao sistema **Secullum**
-- 🏢 Ajudando no **desenvolvimento** na **Conecta Ponto e Acesso**
+- 🏢 Ajudando na parte de **desenvolvimento** na **Conecta Ponto e Acesso**
 - ⛪ Desenvolvendo um **projeto para igreja**
 - 🤖 Aplicando **IA em projetos**
-- 📚 Estudando e evoluindo todos os dias na área de desenvolvimento
+- 📚 Evoluindo nos estudos de **JavaScript** e **SQL** e **Python**
 
 ---
 
 ## 📚 Atualmente estudando
 
 <div>
-  <img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img loading="lazy" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
   <img loading="lazy" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img loading="lazy" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
@@ -42,8 +42,7 @@ Além disso, estou evoluindo meus conhecimentos em programação e participando 
 <div>
   <img loading="lazy" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img loading="lazy" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img loading="lazy" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img loading="lazy" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
