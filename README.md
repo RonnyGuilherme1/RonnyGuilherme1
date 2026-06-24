@@ -23,7 +23,7 @@ Tenho interesse em criar sistemas úteis, bem estruturados e fáceis de manter, 
 - 💼 Trabalhando com <strong>suporte técnico</strong> ao sistema <strong>Secullum</strong>
 - 🏢 Contribuindo com projetos e melhorias na <strong>Conecta Ponto e Acesso</strong>
 - 📚 Estudando desenvolvimento <strong>full stack</strong>
-- 💻 Fortalecendo a base em <strong>HTML, CSS, JavaScript, SQL e PostgreSQL</strong>
+- 💻 Fortalecendo a base em <strong>HTML, CSS, JavaScript, PostgreSQL</strong>
 - 🤖 Explorando o uso de <strong>Inteligência Artificial</strong> em projetos práticos
 - 🧩 Desenvolvendo soluções para organização, automação e sistemas web
 
@@ -35,7 +35,6 @@ Tenho interesse em criar sistemas úteis, bem estruturados e fáceis de manter, 
   <img loading="lazy" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img loading="lazy" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img loading="lazy" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img loading="lazy" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
